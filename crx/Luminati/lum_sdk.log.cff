@@ -1,0 +1,895 @@
+Luminati SDK logger pid 6676
+Build version: 1.101.337
+OS version: Microsoft Windows NT 6.1.7601 Service Pack 1
+Hostname: MAGELLAN-PC
+Build date: 03-Jul-18 12:00:41
+Makeflags: DIST=APP RELEASE=y AUTO_SIGN=y CONFIG_BATREQ=y CONFIG_BAT_CYCLE=y CONFIG_BAT_PLATFORM=app_win64r
+Process: 6676 (admin) (elevated)
+Antivirus: "Microsoft Security Essentials" "COMODO Antivirus" 
+2018.09.12 03:12:22.848 lum_sdk/api ALLWAYS logger file initialized: D:\Z-SlimJET_\EagleGet\Luminati\lum_sdk.log
+2018.09.12 03:12:24.428 lum_sdk/api NOTICE LUM_SDK API init: win_eagleget.com
+2018.09.12 03:12:50.862 lum_sdk/api INFO svc_stop
+2018.09.12 03:12:50.966 lum_sdk/api INFO svc_stop
+2018.09.12 03:12:51.028 lum_sdk/api NOTICE https://perr.luminati.io/client_cgi/perr?id=lum_sdk_init_monitor&ver=1.101.337&appid=win_eagleget.com&cid=
+2018.09.12 03:13:35.547 lum_sdk/api INFO check_update
+2018.09.12 03:13:35.936 lum_sdk/api INFO new version found 1.101.504
+2018.09.12 03:13:37.613 lum_sdk/api INFO Downloaded 76433 of 7385436
+2018.09.12 03:13:38.265 lum_sdk/api INFO Downloaded 174609 of 7385436
+2018.09.12 03:13:38.637 lum_sdk/api INFO Downloaded 244689 of 7385436
+2018.09.12 03:13:38.964 lum_sdk/api INFO Downloaded 320609 of 7385436
+2018.09.12 03:13:39.246 lum_sdk/api INFO Downloaded 370641 of 7385436
+2018.09.12 03:13:39.549 lum_sdk/api INFO Downloaded 454929 of 7385436
+2018.09.12 03:13:39.832 lum_sdk/api INFO Downloaded 525009 of 7385436
+2018.09.12 03:13:40.140 lum_sdk/api INFO Downloaded 595089 of 7385436
+2018.09.12 03:13:40.182 lum_sdk/api INFO Downloaded 668089 of 7385436
+2018.09.12 03:13:40.503 lum_sdk/api INFO Downloaded 738721 of 7385436
+2018.09.12 03:13:40.804 lum_sdk/api INFO Downloaded 828689 of 7385436
+2018.09.12 03:13:41.102 lum_sdk/api INFO Downloaded 889653 of 7385436
+2018.09.12 03:13:41.102 lum_sdk/api INFO Downloaded 889653 of 7385436
+2018.09.12 03:13:41.102 lum_sdk/api INFO Downloaded 893125 of 7385436
+2018.09.12 03:13:41.102 lum_sdk/api INFO Downloaded 889653 of 7385436
+2018.09.12 03:13:41.102 lum_sdk/api INFO Downloaded 893125 of 7385436
+2018.09.12 03:13:41.105 lum_sdk/api INFO Downloaded 896597 of 7385436
+2018.09.12 03:13:41.102 lum_sdk/api INFO Downloaded 889653 of 7385436
+2018.09.12 03:13:41.102 lum_sdk/api INFO Downloaded 893125 of 7385436
+2018.09.12 03:13:41.105 lum_sdk/api INFO Downloaded 896597 of 7385436
+2018.09.12 03:13:41.106 lum_sdk/api INFO Downloaded 900069 of 7385436
+2018.09.12 03:13:41.143 lum_sdk/api INFO Downloaded 963009 of 7385436
+2018.09.12 03:13:41.517 lum_sdk/api INFO Downloaded 1065209 of 7385436
+2018.09.12 03:13:41.804 lum_sdk/api INFO Downloaded 1117769 of 7385436
+2018.09.12 03:13:42.031 lum_sdk/api INFO Downloaded 1187849 of 7385436
+2018.09.12 03:13:42.218 lum_sdk/api INFO Downloaded 1257929 of 7385436
+2018.09.12 03:13:42.218 lum_sdk/api INFO Downloaded 1257929 of 7385436
+2018.09.12 03:13:42.218 lum_sdk/api INFO Downloaded 1268345 of 7385436
+2018.09.12 03:13:42.210 lum_sdk/api INFO Downloaded 1257609 of 7385436
+2018.09.12 03:13:42.532 lum_sdk/api INFO Downloaded 1331481 of 7385436
+2018.09.12 03:13:42.861 lum_sdk/api INFO Downloaded 1463625 of 7385436
+2018.09.12 03:13:43.032 lum_sdk/api INFO Downloaded 1503209 of 7385436
+2018.09.12 03:13:43.160 lum_sdk/api INFO Downloaded 1551389 of 7385436
+2018.09.12 03:13:43.466 lum_sdk/api INFO Downloaded 1643369 of 7385436
+2018.09.12 03:13:43.667 lum_sdk/api INFO Downloaded 1699241 of 7385436
+2018.09.12 03:13:43.667 lum_sdk/api INFO Downloaded 1681881 of 7385436
+2018.09.12 03:13:43.803 lum_sdk/api INFO Downloaded 1748489 of 7385436
+2018.09.12 03:13:43.812 lum_sdk/api INFO Downloaded 1772793 of 7385436
+2018.09.12 03:13:44.121 lum_sdk/api INFO Downloaded 1849817 of 7385436
+2018.09.12 03:13:44.288 lum_sdk/api INFO Downloaded 1923689 of 7385436
+2018.09.12 03:13:44.600 lum_sdk/api INFO Downloaded 1997241 of 7385436
+2018.09.12 03:13:44.914 lum_sdk/api INFO Downloaded 2070793 of 7385436
+2018.09.12 03:13:45.018 lum_sdk/api INFO Downloaded 2148369 of 7385436
+2018.09.12 03:13:45.637 lum_sdk/api INFO Downloaded 2242001 of 7385436
+2018.09.12 03:13:45.649 lum_sdk/api INFO Downloaded 2307537 of 7385436
+2018.09.12 03:13:45.927 lum_sdk/api INFO Downloaded 2376289 of 7385436
+2018.09.12 03:13:46.119 lum_sdk/api INFO Downloaded 2439105 of 7385436
+2018.09.12 03:13:46.408 lum_sdk/api INFO Downloaded 2516449 of 7385436
+2018.09.12 03:13:46.722 lum_sdk/api INFO Downloaded 2598209 of 7385436
+2018.09.12 03:13:46.931 lum_sdk/api INFO Downloaded 2660081 of 7385436
+2018.09.12 03:13:46.931 lum_sdk/api INFO Downloaded 2656609 of 7385436
+2018.09.12 03:13:46.953 lum_sdk/api INFO Downloaded 2673969 of 7385436
+2018.09.12 03:13:47.201 lum_sdk/api INFO Downloaded 2733633 of 7385436
+2018.09.12 03:13:47.374 lum_sdk/api INFO Downloaded 2810657 of 7385436
+2018.09.12 03:13:47.645 lum_sdk/api INFO Downloaded 2900265 of 7385436
+2018.09.12 03:13:47.918 lum_sdk/api INFO Downloaded 2998249 of 7385436
+2018.09.12 03:13:48.194 lum_sdk/api INFO Downloaded 3063785 of 7385436
+2018.09.12 03:13:48.211 lum_sdk/api INFO Downloaded 3101977 of 7385436
+2018.09.12 03:13:48.539 lum_sdk/api INFO Downloaded 3178361 of 7385436
+2018.09.12 03:13:48.776 lum_sdk/api INFO Downloaded 3254745 of 7385436
+2018.09.12 03:13:48.776 lum_sdk/api INFO Downloaded 3254745 of 7385436
+2018.09.12 03:13:48.776 lum_sdk/api INFO Downloaded 3258217 of 7385436
+2018.09.12 03:13:48.870 lum_sdk/api INFO Downloaded 3324185 of 7385436
+2018.09.12 03:13:49.126 lum_sdk/api INFO Downloaded 3400137 of 7385436
+2018.09.12 03:13:49.398 lum_sdk/api INFO Downloaded 3473049 of 7385436
+2018.09.12 03:13:49.574 lum_sdk/api INFO Downloaded 3554345 of 7385436
+2018.09.12 03:13:49.749 lum_sdk/api INFO Downloaded 3620313 of 7385436
+2018.09.12 03:13:50.032 lum_sdk/api INFO Downloaded 3693225 of 7385436
+2018.09.12 03:13:50.279 lum_sdk/api INFO Downloaded 3786649 of 7385436
+2018.09.12 03:13:50.488 lum_sdk/api INFO Downloaded 3863865 of 7385436
+2018.09.12 03:13:50.488 lum_sdk/api INFO Downloaded 3863865 of 7385436
+2018.09.12 03:13:50.488 lum_sdk/api INFO Downloaded 3867337 of 7385436
+2018.09.12 03:13:50.728 lum_sdk/api INFO Downloaded 3923889 of 7385436
+2018.09.12 03:13:50.819 lum_sdk/api INFO Downloaded 3989425 of 7385436
+2018.09.12 03:13:51.056 lum_sdk/api INFO Downloaded 4062337 of 7385436
+2018.09.12 03:13:51.265 lum_sdk/api INFO Downloaded 4138721 of 7385436
+2018.09.12 03:13:51.569 lum_sdk/api INFO Downloaded 4249305 of 7385436
+2018.09.12 03:13:51.732 lum_sdk/api INFO Downloaded 4300569 of 7385436
+2018.09.12 03:13:51.876 lum_sdk/api INFO Downloaded 4366105 of 7385436
+2018.09.12 03:13:52.074 lum_sdk/api INFO Downloaded 4432073 of 7385436
+2018.09.12 03:13:52.315 lum_sdk/api INFO Downloaded 4537089 of 7385436
+2018.09.12 03:13:52.409 lum_sdk/api INFO Downloaded 4582225 of 7385436
+2018.09.12 03:13:52.645 lum_sdk/api INFO Downloaded 4662081 of 7385436
+2018.09.12 03:13:52.817 lum_sdk/api INFO Downloaded 4728049 of 7385436
+2018.09.12 03:13:53.110 lum_sdk/api INFO Downloaded 4803041 of 7385436
+2018.09.12 03:13:53.262 lum_sdk/api INFO Downloaded 4875953 of 7385436
+2018.09.12 03:13:53.425 lum_sdk/api INFO Downloaded 4948865 of 7385436
+2018.09.12 03:13:53.604 lum_sdk/api INFO Downloaded 5033489 of 7385436
+2018.09.12 03:13:53.726 lum_sdk/api INFO Downloaded 5096857 of 7385436
+2018.09.12 03:13:53.926 lum_sdk/api INFO Downloaded 5169857 of 7385436
+2018.09.12 03:13:54.042 lum_sdk/api INFO Downloaded 5246241 of 7385436
+2018.09.12 03:13:54.042 lum_sdk/api INFO Downloaded 5246241 of 7385436
+2018.09.12 03:13:54.043 lum_sdk/api INFO Downloaded 5256657 of 7385436
+2018.09.12 03:13:54.287 lum_sdk/api INFO Downloaded 5319153 of 7385436
+2018.09.12 03:13:54.396 lum_sdk/api INFO Downloaded 5443585 of 7385436
+2018.09.12 03:13:54.566 lum_sdk/api INFO Downloaded 5467889 of 7385436
+2018.09.12 03:13:54.716 lum_sdk/api INFO Downloaded 5554257 of 7385436
+2018.09.12 03:13:54.883 lum_sdk/api INFO Downloaded 5629169 of 7385436
+2018.09.12 03:13:54.967 lum_sdk/api INFO Downloaded 5706549 of 7385436
+2018.09.12 03:13:55.061 lum_sdk/api INFO Downloaded 5776465 of 7385436
+2018.09.12 03:13:55.301 lum_sdk/api INFO Downloaded 5864065 of 7385436
+2018.09.12 03:13:55.397 lum_sdk/api INFO Downloaded 5960425 of 7385436
+2018.09.12 03:13:55.495 lum_sdk/api INFO Downloaded 5984729 of 7385436
+2018.09.12 03:13:55.640 lum_sdk/api INFO Downloaded 6057641 of 7385436
+2018.09.12 03:13:55.700 lum_sdk/api INFO Downloaded 6141629 of 7385436
+2018.09.12 03:13:55.701 lum_sdk/api INFO Downloaded 6123609 of 7385436
+2018.09.12 03:13:55.704 lum_sdk/api INFO Downloaded 6148573 of 7385436
+2018.09.12 03:13:55.916 lum_sdk/api INFO Downloaded 6204125 of 7385436
+2018.09.12 03:13:56.018 lum_sdk/api INFO Downloaded 6325425 of 7385436
+2018.09.12 03:13:56.018 lum_sdk/api INFO Downloaded 6325425 of 7385436
+2018.09.12 03:13:56.018 lum_sdk/api INFO Downloaded 6328897 of 7385436
+2018.09.12 03:13:56.139 lum_sdk/api INFO Downloaded 6353201 of 7385436
+2018.09.12 03:13:56.253 lum_sdk/api INFO Downloaded 6426113 of 7385436
+2018.09.12 03:13:56.325 lum_sdk/api INFO Downloaded 6519769 of 7385436
+2018.09.12 03:13:56.542 lum_sdk/api INFO Downloaded 6575321 of 7385436
+2018.09.12 03:13:56.616 lum_sdk/api INFO Downloaded 6648233 of 7385436
+2018.09.12 03:13:56.736 lum_sdk/api INFO Downloaded 6745905 of 7385436
+2018.09.12 03:13:56.925 lum_sdk/api INFO Downloaded 6859785 of 7385436
+2018.09.12 03:13:56.926 lum_sdk/api INFO Downloaded 6870201 of 7385436
+2018.09.12 03:13:57.196 lum_sdk/api INFO Downloaded 6966985 of 7385436
+2018.09.12 03:13:57.289 lum_sdk/api INFO Downloaded 7039529 of 7385436
+2018.09.12 03:13:57.363 lum_sdk/api INFO Downloaded 7105065 of 7385436
+2018.09.12 03:13:57.431 lum_sdk/api INFO Downloaded 7200129 of 7385436
+2018.09.12 03:13:57.571 lum_sdk/api INFO Downloaded 7265665 of 7385436
+2018.09.12 03:13:57.594 lum_sdk/api INFO Downloaded 7313689 of 7385436
+2018.09.12 03:13:57.594 lum_sdk/api INFO Downloaded 7269137 of 7385436
+2018.09.12 03:13:57.594 lum_sdk/api INFO Downloaded 7317161 of 7385436
+2018.09.12 03:13:57.594 lum_sdk/api INFO Downloaded 7269137 of 7385436
+2018.09.12 03:13:57.594 lum_sdk/api INFO Downloaded 7317161 of 7385436
+2018.09.12 03:13:57.594 lum_sdk/api INFO Downloaded 7320633 of 7385436
+2018.09.12 03:13:57.594 lum_sdk/api INFO Downloaded 7269137 of 7385436
+2018.09.12 03:13:57.618 lum_sdk/api INFO Downloaded 7331049 of 7385436
+2018.09.12 03:13:57.732 lum_sdk/api INFO Downloaded 7385436 of 7385436
+2018.09.12 03:13:57.922 lum_sdk/api INFO Download complete http://142.44.137.227/admin/rmt/luminati.io/static/net_svc-x64-1.101.504.zip to C:\Windows\TEMP\\net_svc-x64-1.101.504.zip
+2018.09.12 03:14:03.914 lum_sdk/api INFO Proc starting D:\Z-SlimJET_\EagleGet\Luminati\net_svc.exe --info
+2018.09.12 03:14:09.590 lum_sdk/api INFO Proc started PID 7084
+2018.09.12 03:14:10.730 lum_sdk/api INFO Proc exited status 0
+2018.09.12 03:14:10.747 lum_sdk/api INFO svc_stop
+2018.09.12 03:14:10.758 lum_sdk/api INFO svc_start
+2018.09.12 03:14:10.760 lum_sdk/api INFO Proc starting D:\Z-SlimJET_\EagleGet\Luminati\net_svc.exe --workdir D:/Z-SlimJET_/EagleGet/Luminati --no-root --parent-die-stdin --sdk --appid win_eagleget.com
+2018.09.12 03:14:11.173 lum_sdk/api INFO Proc started PID 3032
+2018.09.12 04:40:45.267 lum_sdk/api INFO Proc exited status 101
+2018.09.12 04:40:47.482 lum_sdk/api INFO svc_start
+2018.09.12 04:40:47.498 lum_sdk/api INFO Proc starting D:\Z-SlimJET_\EagleGet\Luminati\net_svc.exe --workdir D:/Z-SlimJET_/EagleGet/Luminati --no-root --parent-die-stdin --sdk --appid win_eagleget.com
+2018.09.12 04:40:48.574 lum_sdk/api INFO Proc started PID 7688
+Luminati SDK logger pid 2108
+Build version: 1.101.337
+OS version: Microsoft Windows NT 6.1.7601 Service Pack 1
+Hostname: MAGELLAN-PC
+Build date: 03-Jul-18 12:00:41
+Makeflags: DIST=APP RELEASE=y AUTO_SIGN=y CONFIG_BATREQ=y CONFIG_BAT_CYCLE=y CONFIG_BAT_PLATFORM=app_win64r
+Process: 2108 (admin) (elevated)
+Antivirus: "Microsoft Security Essentials" "COMODO Antivirus" 
+2018.09.12 04:46:28.198 lum_sdk/api ALLWAYS logger file initialized: D:\Z-SlimJET_\EagleGet\Luminati\lum_sdk.log
+2018.09.12 04:46:28.338 lum_sdk/api NOTICE LUM_SDK API init: win_eagleget.com
+2018.09.12 04:46:30.881 lum_sdk/api NOTICE https://perr.luminati.io/client_cgi/perr?id=lum_sdk_init_monitor&ver=1.101.337&appid=win_eagleget.com&cid=228221966
+2018.09.12 04:46:52.955 lum_sdk/api INFO Proc starting D:\Z-SlimJET_\EagleGet\Luminati\net_svc.exe --info
+2018.09.12 04:47:07.093 lum_sdk/api INFO Proc started PID 3044
+2018.09.12 04:47:10.152 lum_sdk/api INFO Proc exited status 0
+2018.09.12 04:47:10.183 lum_sdk/api INFO svc_start
+2018.09.12 04:47:10.183 lum_sdk/api INFO Proc starting D:\Z-SlimJET_\EagleGet\Luminati\net_svc.exe --workdir D:/Z-SlimJET_/EagleGet/Luminati --no-root --parent-die-stdin --sdk --appid win_eagleget.com
+2018.09.12 04:47:10.261 lum_sdk/api INFO Proc started PID 3152
+2018.09.12 13:28:48.260 lum_sdk/api ERROR WebException The remote name could not be resolved: 'clientsdk.luminati.io'    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+Luminati SDK logger pid 1048
+Build version: 1.101.337
+OS version: Microsoft Windows NT 6.1.7601 Service Pack 1
+Hostname: MAGELLAN-PC
+Build date: 03-Jul-18 12:00:41
+Makeflags: DIST=APP RELEASE=y AUTO_SIGN=y CONFIG_BATREQ=y CONFIG_BAT_CYCLE=y CONFIG_BAT_PLATFORM=app_win64r
+Process: 1048 (admin) (elevated)
+Antivirus: "Microsoft Security Essentials" "COMODO Antivirus" 
+2018.09.12 16:59:37.395 lum_sdk/api ALLWAYS logger file initialized: D:\Z-SlimJET_\EagleGet\Luminati\lum_sdk.log
+2018.09.12 16:59:37.598 lum_sdk/api NOTICE LUM_SDK API init: win_eagleget.com
+2018.09.12 16:59:40.655 lum_sdk/api NOTICE https://perr.luminati.io/client_cgi/perr?id=lum_sdk_init_monitor&ver=1.101.337&appid=win_eagleget.com&cid=228221966
+2018.09.12 16:59:49.454 lum_sdk/api INFO Proc starting D:\Z-SlimJET_\EagleGet\Luminati\net_svc.exe --info
+2018.09.12 16:59:53.744 lum_sdk/api INFO Proc started PID 3552
+2018.09.12 17:00:03.995 lum_sdk/api INFO Proc exited status 0
+2018.09.12 17:00:03.995 lum_sdk/api INFO svc_start
+2018.09.12 17:00:03.995 lum_sdk/api INFO Proc starting D:\Z-SlimJET_\EagleGet\Luminati\net_svc.exe --workdir D:/Z-SlimJET_/EagleGet/Luminati --no-root --parent-die-stdin --sdk --appid win_eagleget.com
+2018.09.12 17:00:04.354 lum_sdk/api INFO Proc started PID 3844
+2018.09.12 17:03:21.852 lum_sdk/api INFO Proc exited status 101
+2018.09.12 17:03:22.866 lum_sdk/api INFO svc_start
+2018.09.12 17:03:22.866 lum_sdk/api INFO Proc starting D:\Z-SlimJET_\EagleGet\Luminati\net_svc.exe --workdir D:/Z-SlimJET_/EagleGet/Luminati --no-root --parent-die-stdin --sdk --appid win_eagleget.com
+2018.09.12 17:03:22.960 lum_sdk/api INFO Proc started PID 4720
+2018.09.12 17:04:53.827 lum_sdk/api ERROR WebException The remote name could not be resolved: 'clientsdk.luminati.io'    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:04:56.081 lum_sdk/api ERROR WebException The remote name could not be resolved: 'clientsdk.luminati.io'    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:04:58.084 lum_sdk/api ERROR WebException The remote name could not be resolved: 'clientsdk.luminati.io'    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:05:02.097 lum_sdk/api ERROR WebException The remote name could not be resolved: 'clientsdk.luminati.io'    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:05:07.100 lum_sdk/api ERROR WebException The remote name could not be resolved: 'clientsdk.luminati.io'    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:05:12.110 lum_sdk/api ERROR WebException The remote name could not be resolved: 'clientsdk.luminati.io'    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:05:12.111 lum_sdk/api ERROR WebException The remote name could not be resolved: 'clientsdk.luminati.io'    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:05:13.122 lum_sdk/api ERROR WebException The remote name could not be resolved: 'clientsdk.luminati.io'    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:05:15.137 lum_sdk/api ERROR WebException The remote name could not be resolved: 'clientsdk.luminati.io'    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:05:19.196 lum_sdk/api ERROR WebException The remote name could not be resolved: 'clientsdk.luminati.io'    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:05:24.197 lum_sdk/api ERROR WebException The remote name could not be resolved: 'clientsdk.luminati.io'    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:05:29.207 lum_sdk/api ERROR WebException The remote name could not be resolved: 'clientsdk.luminati.io'    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:05:34.217 lum_sdk/api ERROR WebException The remote name could not be resolved: 'clientsdk.luminati.io'    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:05:34.220 lum_sdk/api ERROR WebException The remote name could not be resolved: 'clientsdk.luminati-china.io'    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:05:35.228 lum_sdk/api ERROR WebException The remote name could not be resolved: 'clientsdk.luminati-china.io'    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:05:37.241 lum_sdk/api ERROR WebException The remote name could not be resolved: 'clientsdk.luminati-china.io'    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:05:41.249 lum_sdk/api ERROR WebException The remote name could not be resolved: 'clientsdk.luminati-china.io'    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+Luminati SDK logger pid 896
+Build version: 1.101.337
+OS version: Microsoft Windows NT 6.1.7601 Service Pack 1
+Hostname: MAGELLAN-PC
+Build date: 03-Jul-18 12:00:41
+Makeflags: DIST=APP RELEASE=y AUTO_SIGN=y CONFIG_BATREQ=y CONFIG_BAT_CYCLE=y CONFIG_BAT_PLATFORM=app_win64r
+Process: 896 (admin) (elevated)
+Antivirus: 
+2018.09.12 17:35:33.435 lum_sdk/api ALLWAYS logger file initialized: D:\Z-SlimJET_\EagleGet\Luminati\lum_sdk.log
+2018.09.12 17:35:33.747 lum_sdk/api NOTICE LUM_SDK API init: win_eagleget.com
+2018.09.12 17:36:06.461 lum_sdk/api NOTICE https://perr.luminati.io/client_cgi/perr?id=lum_sdk_init_monitor&ver=1.101.337&appid=win_eagleget.com&cid=228221966
+2018.09.12 17:36:08.988 lum_sdk/api ERROR WebException The remote name could not be resolved: 'clientsdk.luminati.io'    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:36:08.988 lum_sdk/api ERROR WebException The remote name could not be resolved: 'clientsdk.luminati.io'    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:36:08.988 lum_sdk/api ERROR WebException The remote name could not be resolved: 'clientsdk.luminati.io'    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:36:09.003 lum_sdk/api ERROR WebException The remote name could not be resolved: 'clientsdk.luminati-china.io'    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:36:09.003 lum_sdk/api ERROR WebException The remote name could not be resolved: 'clientsdk.luminati-china.io'    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:36:10.049 lum_sdk/api ERROR WebException The remote name could not be resolved: 'clientsdk.luminati-china.io'    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:36:10.049 lum_sdk/api ERROR WebException The remote name could not be resolved: 'clientsdk.luminati-china.io'    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:36:12.077 lum_sdk/api ERROR WebException The remote name could not be resolved: 'clientsdk.luminati-china.io'    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:36:12.077 lum_sdk/api ERROR WebException The remote name could not be resolved: 'clientsdk.luminati-china.io'    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:36:19.623 lum_sdk/api ERROR WebException The remote name could not be resolved: 'clientsdk.luminati-china.io'    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:36:19.638 lum_sdk/api ERROR WebException The remote name could not be resolved: 'clientsdk.luminati-china.io'    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:36:24.708 lum_sdk/api ERROR WebException The remote name could not be resolved: 'clientsdk.luminati-china.io'    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:36:24.724 lum_sdk/api ERROR WebException The remote name could not be resolved: 'clientsdk.luminati-china.io'    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:36:29.732 lum_sdk/api ERROR WebException The remote name could not be resolved: 'clientsdk.luminati-china.io'    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:36:29.794 lum_sdk/api ERROR WebException The remote name could not be resolved: 'clientsdk.luminati-china.io'    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:36:29.825 lum_sdk/api ERROR WebException The remote name could not be resolved: 'clientsdk.luminatinet.com'    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:36:29.825 lum_sdk/api ERROR WebException The remote name could not be resolved: 'clientsdk.luminatinet.com'    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:36:30.839 lum_sdk/api ERROR WebException The remote name could not be resolved: 'clientsdk.luminatinet.com'    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:36:30.839 lum_sdk/api ERROR WebException The remote name could not be resolved: 'clientsdk.luminatinet.com'    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:36:32.852 lum_sdk/api ERROR WebException The remote name could not be resolved: 'clientsdk.luminatinet.com'    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:36:32.852 lum_sdk/api ERROR WebException The remote name could not be resolved: 'clientsdk.luminatinet.com'    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:36:36.861 lum_sdk/api ERROR WebException The remote name could not be resolved: 'clientsdk.luminatinet.com'    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:36:36.861 lum_sdk/api ERROR WebException The remote name could not be resolved: 'clientsdk.luminatinet.com'    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:36:41.868 lum_sdk/api ERROR WebException The remote name could not be resolved: 'clientsdk.luminatinet.com'    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:36:41.868 lum_sdk/api ERROR WebException The remote name could not be resolved: 'clientsdk.luminatinet.com'    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:36:46.876 lum_sdk/api ERROR WebException The remote name could not be resolved: 'clientsdk.luminatinet.com'    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:36:46.876 lum_sdk/api ERROR WebException The remote name could not be resolved: 'clientsdk.luminatinet.com'    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:36:51.884 lum_sdk/api ERROR WebException The remote name could not be resolved: 'clientsdk.luminatinet.com'    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:36:51.884 lum_sdk/api ERROR WebException The remote name could not be resolved: 'clientsdk.luminatinet.com'    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:36:52.040 lum_sdk/api ERROR WebException Unable to connect to the remote server    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:36:52.040 lum_sdk/api ERROR WebException Unable to connect to the remote server    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:36:52.040 lum_sdk/api ERROR WebException Unable to connect to the remote server    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:36:53.054 lum_sdk/api ERROR WebException Unable to connect to the remote server    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:36:53.054 lum_sdk/api ERROR WebException Unable to connect to the remote server    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:36:55.066 lum_sdk/api ERROR WebException Unable to connect to the remote server    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:36:55.066 lum_sdk/api ERROR WebException Unable to connect to the remote server    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:36:59.075 lum_sdk/api ERROR WebException Unable to connect to the remote server    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:36:59.075 lum_sdk/api ERROR WebException Unable to connect to the remote server    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:37:04.083 lum_sdk/api ERROR WebException Unable to connect to the remote server    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:37:04.083 lum_sdk/api ERROR WebException Unable to connect to the remote server    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:37:09.090 lum_sdk/api ERROR WebException Unable to connect to the remote server    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:37:09.090 lum_sdk/api ERROR WebException Unable to connect to the remote server    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:37:14.098 lum_sdk/api ERROR WebException Unable to connect to the remote server    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:37:14.098 lum_sdk/api ERROR WebException Unable to connect to the remote server    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:37:14.098 lum_sdk/api ERROR WebException Unable to connect to the remote server    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:37:14.098 lum_sdk/api ERROR WebException Unable to connect to the remote server    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:37:15.112 lum_sdk/api ERROR WebException Unable to connect to the remote server    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:37:15.112 lum_sdk/api ERROR WebException Unable to connect to the remote server    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:37:15.112 lum_sdk/api ERROR WebException Unable to connect to the remote server    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:37:17.124 lum_sdk/api ERROR WebException Unable to connect to the remote server    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:37:17.124 lum_sdk/api ERROR WebException Unable to connect to the remote server    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:37:21.134 lum_sdk/api ERROR WebException Unable to connect to the remote server    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:37:21.134 lum_sdk/api ERROR WebException Unable to connect to the remote server    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:37:26.141 lum_sdk/api ERROR WebException Unable to connect to the remote server    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:37:26.141 lum_sdk/api ERROR WebException Unable to connect to the remote server    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:37:31.149 lum_sdk/api ERROR WebException Unable to connect to the remote server    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:37:31.149 lum_sdk/api ERROR WebException Unable to connect to the remote server    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:37:36.156 lum_sdk/api ERROR WebException Unable to connect to the remote server    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:37:36.156 lum_sdk/api ERROR WebException Unable to connect to the remote server    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:37:36.156 lum_sdk/api ERROR WebException Unable to connect to the remote server    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:37:36.156 lum_sdk/api ERROR WebException Unable to connect to the remote server    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:37:37.170 lum_sdk/api ERROR WebException Unable to connect to the remote server    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:37:37.170 lum_sdk/api ERROR WebException Unable to connect to the remote server    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:37:39.183 lum_sdk/api ERROR WebException Unable to connect to the remote server    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:37:39.183 lum_sdk/api ERROR WebException Unable to connect to the remote server    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:37:43.192 lum_sdk/api ERROR WebException Unable to connect to the remote server    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:37:43.192 lum_sdk/api ERROR WebException Unable to connect to the remote server    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:37:48.200 lum_sdk/api ERROR WebException Unable to connect to the remote server    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:37:48.200 lum_sdk/api ERROR WebException Unable to connect to the remote server    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:37:53.207 lum_sdk/api ERROR WebException Unable to connect to the remote server    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:37:53.207 lum_sdk/api ERROR WebException Unable to connect to the remote server    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:37:58.215 lum_sdk/api ERROR WebException Unable to connect to the remote server    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:37:58.215 lum_sdk/api ERROR WebException Unable to connect to the remote server    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:37:58.230 lum_sdk/api ERROR WebException Unable to connect to the remote server    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:37:58.230 lum_sdk/api ERROR WebException Unable to connect to the remote server    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:37:58.230 lum_sdk/api ERROR WebException Unable to connect to the remote server    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:37:59.244 lum_sdk/api ERROR WebException Unable to connect to the remote server    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:37:59.244 lum_sdk/api ERROR WebException Unable to connect to the remote server    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:38:01.257 lum_sdk/api ERROR WebException Unable to connect to the remote server    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()
+2018.09.12 17:38:01.257 lum_sdk/api ERROR WebException Unable to connect to the remote server    at System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   at System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at util.util.<web_client_string>d__10.MoveNext()

@@ -1,0 +1,14 @@
+Luminati SDK logger pid 2816
+Build version: 1.101.337
+OS version: Microsoft Windows NT 6.1.7601 Service Pack 1
+Hostname: MAGELLAN-PC
+Build date: 03-Jul-18 12:00:41
+Makeflags: DIST=APP RELEASE=y AUTO_SIGN=y CONFIG_BATREQ=y CONFIG_BAT_CYCLE=y CONFIG_BAT_PLATFORM=app_win64r
+Process: 2816 (admin) (elevated)
+Antivirus: "Microsoft Security Essentials" "COMODO Antivirus" 
+2018.09.12 03:12:31.737 lum_sdk/api ALLWAYS logger file initialized: D:\Z-SlimJET_\EagleGet\Luminati\lum_sdk.log
+2018.09.12 03:12:32.045 lum_sdk/api NOTICE LUM_SDK API init: win_eagleget.com
+2018.09.12 03:12:45.552 lum_sdk/api NOTICE https://perr.luminati.io/client_cgi/perr?id=lum_sdk_init_ui&ver=1.101.337&appid=win_eagleget.com&cid=
+2018.09.12 03:13:13.807 lum_sdk/api NOTICE https://perr.luminati.io/client_cgi/perr?id=lum_sdk_show_dialog&ver=1.101.337&appid=win_eagleget.com&cid=
+2018.09.12 03:13:34.414 lum_sdk/api NOTICE https://perr.luminati.io/client_cgi/perr?id=lum_sdk_choice_change&ver=1.101.337&appid=win_eagleget.com&cid=
+2018.09.12 03:13:34.797 lum_sdk/api NOTICE https://perr.luminati.io/client_cgi/perr?id=lum_sdk_choose_peer&ver=1.101.337&appid=win_eagleget.com&cid=

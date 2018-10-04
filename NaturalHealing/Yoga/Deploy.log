@@ -1,0 +1,73 @@
+; DeployMaster Installation Log
+; Please do not delete or alter this file.
+; It is needed whenever you want to update or uninstall Zentrum Publishing Yantras 3.6
+; DeployMaster is copyright © 2000-2014 Jan Goyvaerts
+; Visit http://www.DeployMaster.com/ for more information on DeployMaster
+2
+Zentrum Publishing Yantras 3.6
+2014
+3
+7
+Zentrum Publishing
+Yantras
+3.6
+Continuing with this operation will completely remove %s from your computer.
+Are you sure you want this to happen?
+Note that you can remove or add individual components of this application by running the original installation program again.
+%s has been successfully removed from your computer.
+Some files could not be uninstalled right now, because they are in use by Windows.
+They will be removed the next time you start up your computer.
+
+2
+%APPFOLDER%
+Program &Files folder:
+C:\Program Files\NaturalHealing\Yoga
+%APPMENU%
+&Start Menu folder:
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\NaturalHealing\Yoga\Yantras
+1
+New component
+S
+C:\Program Files\NaturalHealing\Yoga\CopyLiab.rtf
+C:\Program Files\NaturalHealing\Yoga\UnDeploy64.exe
+C:\Program Files\NaturalHealing\Yoga\advpack.dll
+C:\Program Files\NaturalHealing\Yoga\AResize.ocx
+C:\Program Files\NaturalHealing\Yoga\asycfilt.dll
+C:\Program Files\NaturalHealing\Yoga\comcat.dll
+C:\Program Files\NaturalHealing\Yoga\COMDLG32.OCX
+C:\Program Files\NaturalHealing\Yoga\msvbvm60.dll
+C:\Program Files\NaturalHealing\Yoga\oleaut32.dll
+C:\Program Files\NaturalHealing\Yoga\riched32.dll
+C:\Program Files\NaturalHealing\Yoga\olepro32.dll
+C:\Program Files\NaturalHealing\Yoga\RICHTX32.OCX
+C:\Program Files\NaturalHealing\Yoga\stdole32.tlb
+C:\Program Files\NaturalHealing\Yoga\TABCTL32.OCX
+C:\Program Files\NaturalHealing\Yoga\Disclaim.rtf
+C:\Program Files\NaturalHealing\Yoga\History.rtf
+C:\Program Files\NaturalHealing\Yoga\VB5DB.DLL
+C:\Program Files\NaturalHealing\Yoga\Privacy.rtf
+C:\Program Files\NaturalHealing\Yoga\Sources.rtf
+C:\Program Files\NaturalHealing\Yoga\Yantras.exe
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\NaturalHealing\Yoga\Yantras\Yantras.lnk
+C:\Users\Public\Desktop\Yantras.lnk
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs\NaturalHealing\Yoga\Yantras\Remove Yantras.lnk
+%%%
+HKEY_LOCAL_MACHINE\Software\JGsoft\DeployIT	Yantras
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Uninstall\Yantras	DisplayIcon
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Uninstall\Yantras	DisplayName
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Uninstall\Yantras	DisplayVersion
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Uninstall\Yantras	EstimatedSize
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Uninstall\Yantras	HelpLink
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Uninstall\Yantras	InstallDate
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Uninstall\Yantras	InstallLocation
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Uninstall\Yantras	NoModify
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Uninstall\Yantras	NoRepair
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Uninstall\Yantras	Publisher
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Uninstall\Yantras	UninstallString
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Uninstall\Yantras	URLInfoAbout
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Uninstall\Yantras	URLInfoUpdate
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Uninstall\Yantras	VersionMajor
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Uninstall\Yantras	VersionMinor
+%%%
+%%%
+%%%

@@ -1,0 +1,88 @@
+; GMail Drive setup file Copyright 2004-2013 by Bjarke Viksoe <bjarke@viksoe.dk>
+;
+; *** WARNING: If you delete this file you will not be able to uninstall GMail Drive!
+
+[Version]
+Signature="$CHICAGO$"
+SetupClass=BASE
+
+[DefaultInstall]
+CopyFiles=Boom.CopyFiles32
+AddReg=Boom.Install.AddRegEntries32
+
+[DefaultInstall.NTamd64]
+CopyFiles=Boom.CopyFiles64, Boom.CopyFilesWOW64
+AddReg=Boom.Install.AddRegEntries64
+
+[DefaultUninstall]
+DelReg=Boom.Uninstall.DelRegEntries
+DelFiles=Boom.CopyFiles32, Boom.DelFiles
+
+[DefaultUninstall.NTamd64]
+DelReg=Boom.Uninstall.DelRegEntries
+DelFiles=Boom.CopyFiles64, Boom.CopyFilesWOW64, Boom.DelFiles
+
+[SourceDisksNames]
+42="%Title%","",1
+
+[SourceDisksFiles]
+GMailFS.dll=42
+GMailFS64.dll=42
+GMailFS.inf=42
+GMailFS.chm=42
+
+[Boom.CopyFiles32]
+GMailFS.dll,,,1
+GMailFS.inf
+GMailFS.chm
+
+[Boom.CopyFiles64]
+GMailFS64.dll,,,1
+GMailFS.inf
+GMailFS.chm
+
+[Boom.CopyFilesWOW64]
+GMailFS.dll,,,1
+GMailFS.inf
+GMailFS.chm
+
+[Boom.DelFiles]
+GMailFS.hlp
+GMailFS.cnt
+
+[DestinationDirs]
+Boom.CopyFiles32=11,%SubDir%                 ; send to System\%SubDir% [x32]
+Boom.CopyFiles64=11,%SubDir%                 ; send to System\%SubDir% [x64]
+Boom.CopyFilesWOW64=10,SysWOW64\%SubDir%     ; send to SysWOW64\%SubDir% [x64]
+Boom.DelFiles=11,%SubDir%                    ; send to System\%SubDir%
+
+[Boom.Install.AddRegEntries32]
+HKLM,Software\Microsoft\Windows\CurrentVersion\RunOnce\Setup,%Title%,,"rundll32.exe %11%\%SubDir%\%ExeFile32%,Install"
+HKLM,Software\Microsoft\Windows\CurrentVersion\Uninstall\%ShortName%,"DisplayName",,"%Title%"
+HKLM,Software\Microsoft\Windows\CurrentVersion\Uninstall\%ShortName%,"DisplayVersion",,"%Version%"
+HKLM,Software\Microsoft\Windows\CurrentVersion\Uninstall\%ShortName%,"UninstallString",,"rundll32.exe %11%\%SubDir%\%ExeFile32%,Uninstall %11%\%SubDir%\%InfFile%"
+HKLM,Software\Microsoft\Windows\CurrentVersion\Uninstall\%ShortName%,"Publisher",,"%Publisher%"
+HKLM,Software\Microsoft\Windows\CurrentVersion\Uninstall\%ShortName%,"URLUpdateInfo",,"%URL%"
+
+[Boom.Install.AddRegEntries64]
+HKLM,Software\Microsoft\Windows\CurrentVersion\RunOnce\Setup,%Title%,,"rundll32.exe %11%\%SubDir%\%ExeFile64%,Install"
+HKLM,Software\Microsoft\Windows\CurrentVersion\Uninstall\%ShortName%,"DisplayName",,"%Title%"
+HKLM,Software\Microsoft\Windows\CurrentVersion\Uninstall\%ShortName%,"DisplayVersion",,"%Version%"
+HKLM,Software\Microsoft\Windows\CurrentVersion\Uninstall\%ShortName%,"UninstallString",,"rundll32.exe %11%\%SubDir%\%ExeFile64%,Uninstall %11%\%SubDir%\%InfFile%"
+HKLM,Software\Microsoft\Windows\CurrentVersion\Uninstall\%ShortName%,"Publisher",,"%Publisher%"
+HKLM,Software\Microsoft\Windows\CurrentVersion\Uninstall\%ShortName%,"URLUpdateInfo",,"%URL%"
+
+[Boom.Uninstall.DelRegEntries]
+HKLM,Software\Microsoft\Windows\CurrentVersion\Uninstall\%ShortName%
+HKCU,Software\Software\viksoe.dk\GMailFS
+
+[Strings]
+Title = "GMail Drive Shell Extension"
+Version="1.0.20"
+Publisher = "viksoe.dk"
+URL = "http://www.viksoe.dk/gmail/"
+ShortName = "GMailFS"
+SubDir = "ShellExt"
+ExeFile32 = "GMailFS.dll"
+ExeFile64 = "GMailFS64.dll"
+InfFile = "GMailFS.inf"
